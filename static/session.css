@@ -1,0 +1,14 @@
+.chat-container{
+    position:relative;
+    width: 400px;
+    height: 500px;
+    margin-top: 10%;
+    margin-left: 30%;
+}
+
+.chat-container input[type='text'] {
+    border-radius: 4px;
+    width: 100%;
+}
+
+
